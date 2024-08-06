@@ -7,20 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Researcher (Principal Investigator) at [PKU IAAS](https://pages.github.com/) 
+I am an associate researcher (Principal Investigator) at the Institute of Advanced Agricultural Sciences, Peking University. I apply modeling and quantitative methods to study markets with primary focuses on agricultural, food, and resource markets. I obtained my PhD in Agricultural and Resource Economics from University of California, Davis under the supervision of [Richard J. Sexton](https://are.ucdavis.edu/people/faculty/richard-sexton/) (co-chair), [Rachael E. Goodhue (co-chair)](https://are.ucdavis.edu/people/faculty/rachael-goodhue/) (co-chair), and [Dalia Ghanem (co-chair)](https://are.ucdavis.edu/people/faculty/dalia-ghanem/). 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-
-Site-wide configuration
+Research Interests
 ------
-The main configuration 
+Empirical Industrial Organization, Agricultural and Food Markets, Development Economics
 
-Create content & metadata
-------
-For site content, 
+**Education**
 
-**Markdown generator**
-
-I have also created 
